@@ -1,0 +1,8 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="Fit_Bianca_lab07.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:Fit_Bianca_lab07.WinUI">
+
+</maui:MauiWinUIApplication>
